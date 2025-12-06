@@ -19,7 +19,7 @@ A fully automated interview platform that:
 - Provides performance insights and feedback  
 
 🔗 **Repository:** _(https://github.com/VksNaveen/AI_Interviewer)_
-🔗 **Repository:** https://ai-interviewer-lilac.vercel.app/
+🔗 **Website Link:** https://ai-interviewer-lilac.vercel.app/
 
 ---
 
